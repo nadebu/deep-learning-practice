@@ -1,6 +1,6 @@
 # Deep Learning Practice
-Jupyter Notebooks and Code for my Deep Learning Experiments
+Experiments
 ---
 
-01 [First NN using Numpy from Scratch](./01-InitNN)
-02 [First CNN using Tensorflow for CIFAR-10](02-InitCNN)
+1. [First NN using Numpy from Scratch](01-InitNN/first-neural-network.ipynb)
+2. [First CNN using Tensorflow for CIFAR-10](02-InitCNN/dlnd_image_classification.ipynb)
