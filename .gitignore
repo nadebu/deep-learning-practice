@@ -87,3 +87,16 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Data files
+*.zip
+*.p
+*.gz
+*.meta
+*.floydignore
+cifar-10-batches-py/
+Submission*/
+checkpoint
+*floyd*
+*.index
+*.data*
