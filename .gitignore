@@ -93,10 +93,20 @@ ENV/
 *.p
 *.gz
 *.meta
-*.floydignore
 cifar-10-batches-py/
-Submission*/
 checkpoint
-*floyd*
 *.index
 *.data*
+*.npy
+
+# Floyd files
+*.floydignore
+*floyd*
+
+# Work in Progress Projects
+pm_modi_speeches_repo/*
+how_to_convert_text_to_images/*
+transfer-learning/*
+
+# Submission Specific Files
+Submission*/
